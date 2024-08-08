@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.secao {
+  text-align: center;
+}
+
+.link-topo {
+  color: #1d1d1d;
+  font-size: 18px;
+  text-decoration: none;
+  margin: 0 10px;
+}
+.topo {
+  background-color: #afddfb;
+}
+.topo img {
+  width: 150px;
+}
+
+
+
+
