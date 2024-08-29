@@ -28,10 +28,25 @@
   margin: 10px auto;
   width: 980px;
 }
-
 /* BANNER */
 .banner {
   padding-top: 0;
   margin-top: 50px;
 }
+/* SOBRE */
+.imagem {
+  width: 450px;
+}
+h1 { 
+  color: #1d1d1d;
+  margin-bottom: 5px;
+}
+h2 { 
+  font-weight: normal;
+}
+.texto-azul {
+  color: #1d80c1;
+  font-weight: bold;
+}
+
 
